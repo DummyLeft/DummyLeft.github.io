@@ -8,7 +8,9 @@ img:  # Add image post (optional)
 注：详细步骤可参见 <https://www.cnblogs.com/mawenqiangios/p/8270238.html>
 
 
-1. 下载破解版Charles（见附件）
+1. 下载破解版Charles
+
+    链接: https://pan.baidu.com/s/1kmHUlYUG-qrikpS58MPdjw 密码: h99t
 
 2. 安装
 
