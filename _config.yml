@@ -3,7 +3,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Nothing but work.
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://dummyleft.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://dummyleft.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
@@ -17,7 +17,7 @@ social-linkedin: # add your Linkedin handle
 social-email: leftlzf@163.com # add your Email address
 
 # Disqus
-discus-identifier: little-left # add your discus identifier
+discus-identifier: dummyleft # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
